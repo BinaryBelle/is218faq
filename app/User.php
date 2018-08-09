@@ -8,6 +8,7 @@ use Illuminate\Foundation\Auth\User as Authenticatable;
 /**
  * App\User
  *
+ *
  * @property int $id
  * @property string $name
  * @property string $email
