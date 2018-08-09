@@ -9,3 +9,4 @@ $factory->define(App\Profile::class, function (Faker $faker) {
         'body' => $faker->paragraph($nbSentences = 3, $variableNbSentences = true),
     ];
 });
+
